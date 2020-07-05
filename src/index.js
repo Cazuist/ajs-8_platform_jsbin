@@ -2,4 +2,4 @@ const ajs = require('@cazuist/ajs');
 
 console.log(ajs.info());
 
-exports.ajs = ajs;
+module.exports = ajs;
